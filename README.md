@@ -1,4 +1,4 @@
-# Buffered Streams - MakeShards: External Sort
+# MakeShards: External Sort - Buffered Streams
 
 This small program creates new files that contains all the same words as `unsorted.txt`,
 but in the new files they should be sorted alphabetically.
